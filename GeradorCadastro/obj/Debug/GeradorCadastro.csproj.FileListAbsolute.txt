@@ -1,0 +1,7 @@
+C:\Users\User\Documents\SharpDevelop Projects\GeradorCadastro\GeradorCadastro\obj\Debug\GeradorCadastro.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\SharpDevelop Projects\GeradorCadastro\GeradorCadastro\bin\Debug\GeradorCadastro.exe
+C:\Users\User\Documents\SharpDevelop Projects\GeradorCadastro\GeradorCadastro\bin\Debug\GeradorCadastro.pdb
+C:\Users\User\Documents\SharpDevelop Projects\GeradorCadastro\GeradorCadastro\obj\Debug\GeradorCadastro.MainForm.resources
+C:\Users\User\Documents\SharpDevelop Projects\GeradorCadastro\GeradorCadastro\obj\Debug\GeradorCadastro.csproj.GenerateResource.Cache
+C:\Users\User\Documents\SharpDevelop Projects\GeradorCadastro\GeradorCadastro\obj\Debug\GeradorCadastro.exe
+C:\Users\User\Documents\SharpDevelop Projects\GeradorCadastro\GeradorCadastro\obj\Debug\GeradorCadastro.pdb
