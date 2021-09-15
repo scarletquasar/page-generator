@@ -1,11 +1,3 @@
-﻿/*
- * Criado por SharpDevelop.
- * Usuário: User
- * Data: 19/03/2021
- * Hora: 20:10
- * 
- * Para alterar este modelo use Ferramentas | Opções | Codificação | Editar Cabeçalhos Padrão.
- */
 using System;
 using System.Windows.Forms;
 
